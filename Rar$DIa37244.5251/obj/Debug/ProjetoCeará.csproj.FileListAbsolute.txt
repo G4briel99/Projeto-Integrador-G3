@@ -1,0 +1,23 @@
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.exe.config
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.exe
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.pdb
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csprojAssemblyReference.cache
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form1.resources
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Properties.Resources.resources
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csproj.GenerateResource.cache
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.exe
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.pdb
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form2.resources
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Produtos.resources
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\bin\Debug\ProjetoCeará.exe.config
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\bin\Debug\ProjetoCeará.exe
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\bin\Debug\ProjetoCeará.pdb
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.csprojAssemblyReference.cache
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.Form1.resources
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.Form2.resources
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.Produtos.resources
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.Properties.Resources.resources
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.csproj.GenerateResource.cache
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.exe
+C:\Users\Gabriel Mazer\AppData\Local\Temp\Rar$DIa37244.5251\obj\Debug\ProjetoCeará.pdb
