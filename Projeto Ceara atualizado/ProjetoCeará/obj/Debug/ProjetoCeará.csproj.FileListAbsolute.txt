@@ -1,0 +1,30 @@
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.exe.config
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.exe
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.pdb
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csprojAssemblyReference.cache
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form1.resources
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Properties.Resources.resources
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csproj.GenerateResource.cache
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.exe
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.pdb
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form2.resources
+D:\Usuario\Documents\Visual Studio 2019\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Produtos.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.exe.config
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.exe
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\bin\Debug\ProjetoCeará.pdb
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csprojAssemblyReference.cache
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form1.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form2.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form3.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Produtos.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Properties.Resources.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csproj.GenerateResource.cache
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.csproj.CoreCompileInputs.cache
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.exe
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.pdb
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Form4.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Vendas.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.FormVendas.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.FormProvedores.resources
+C:\Users\mfser\Desktop\ProjetoCeará\ProjetoCeará\obj\Debug\ProjetoCeará.Provedores.resources
